@@ -6,7 +6,7 @@
  
 uint16_t ADValue;
 float Voltage;
-
+ 
 int main(void)
 {
 	OLED_Init();
